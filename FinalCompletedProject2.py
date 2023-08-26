@@ -1,5 +1,4 @@
-# ME21, Project Two.3
-# In this final program, we will analyze the given data to feed a graphical user interface.
+# In this program, we will analyze the given data to feed a graphical user interface.
 
 # In this first step, this code will ask the user for their desired name and a specified sex.
 I = input('What name are you interested in? ')
